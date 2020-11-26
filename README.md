@@ -1,1 +1,1 @@
-# marge-colors
+# merge-colors
